@@ -1,0 +1,475 @@
+[01-Nov-2014 15:22:40 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user 'toksquaye'@'localhost' (using password: YES)' in /home/akoto123/includes/config.php:10
+Stack trace:
+#0 /home/akoto123/includes/config.php(10): PDO->__construct('mysql:dbname=ak...', 'toksquaye', '1234')
+#1 /home/akoto123/public_html/index.php(3): require('/home/akoto123/...')
+#2 {main}
+  thrown in /home/akoto123/includes/config.php on line 10
+[01-Nov-2014 15:30:57 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user 'toksquaye'@'localhost' (using password: YES)' in /home/akoto123/public_html/mainmenu.php:7
+Stack trace:
+#0 /home/akoto123/public_html/mainmenu.php(7): PDO->__construct('mysql:dbname=ak...', 'toksquaye', '1234')
+#1 {main}
+  thrown in /home/akoto123/public_html/mainmenu.php on line 7
+[01-Nov-2014 15:57:40 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user 'toksquaye'@'localhost' (using password: YES)' in /home/akoto123/public_html/productpage.php:7
+Stack trace:
+#0 /home/akoto123/public_html/productpage.php(7): PDO->__construct('mysql:dbname=ak...', 'toksquaye', '1234')
+#1 {main}
+  thrown in /home/akoto123/public_html/productpage.php on line 7
+[01-Nov-2014 15:58:20 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user 'toksquaye'@'localhost' (using password: YES)' in /home/akoto123/public_html/productpage.php:7
+Stack trace:
+#0 /home/akoto123/public_html/productpage.php(7): PDO->__construct('mysql:dbname=ak...', 'toksquaye', '1234')
+#1 {main}
+  thrown in /home/akoto123/public_html/productpage.php on line 7
+[01-Nov-2014 15:58:47 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user 'toksquaye'@'localhost' (using password: YES)' in /home/akoto123/public_html/productpage.php:7
+Stack trace:
+#0 /home/akoto123/public_html/productpage.php(7): PDO->__construct('mysql:dbname=ak...', 'toksquaye', '1234')
+#1 {main}
+  thrown in /home/akoto123/public_html/productpage.php on line 7
+[01-Nov-2014 16:01:31 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user 'toksquaye'@'localhost' (using password: YES)' in /home/akoto123/public_html/productpage.php:7
+Stack trace:
+#0 /home/akoto123/public_html/productpage.php(7): PDO->__construct('mysql:dbname=ak...', 'toksquaye', '1234')
+#1 {main}
+  thrown in /home/akoto123/public_html/productpage.php on line 7
+[01-Nov-2014 16:01:34 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user 'toksquaye'@'localhost' (using password: YES)' in /home/akoto123/public_html/productpage.php:7
+Stack trace:
+#0 /home/akoto123/public_html/productpage.php(7): PDO->__construct('mysql:dbname=ak...', 'toksquaye', '1234')
+#1 {main}
+  thrown in /home/akoto123/public_html/productpage.php on line 7
+[01-Nov-2014 16:01:38 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user 'toksquaye'@'localhost' (using password: YES)' in /home/akoto123/public_html/productpage.php:7
+Stack trace:
+#0 /home/akoto123/public_html/productpage.php(7): PDO->__construct('mysql:dbname=ak...', 'toksquaye', '1234')
+#1 {main}
+  thrown in /home/akoto123/public_html/productpage.php on line 7
+[01-Nov-2014 16:01:50 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user 'toksquaye'@'localhost' (using password: YES)' in /home/akoto123/public_html/productpage.php:7
+Stack trace:
+#0 /home/akoto123/public_html/productpage.php(7): PDO->__construct('mysql:dbname=ak...', 'toksquaye', '1234')
+#1 {main}
+  thrown in /home/akoto123/public_html/productpage.php on line 7
+[01-Nov-2014 16:01:51 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user 'toksquaye'@'localhost' (using password: YES)' in /home/akoto123/public_html/productpage.php:7
+Stack trace:
+#0 /home/akoto123/public_html/productpage.php(7): PDO->__construct('mysql:dbname=ak...', 'toksquaye', '1234')
+#1 {main}
+  thrown in /home/akoto123/public_html/productpage.php on line 7
+[01-Nov-2014 16:01:56 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user 'toksquaye'@'localhost' (using password: YES)' in /home/akoto123/public_html/productpage.php:7
+Stack trace:
+#0 /home/akoto123/public_html/productpage.php(7): PDO->__construct('mysql:dbname=ak...', 'toksquaye', '1234')
+#1 {main}
+  thrown in /home/akoto123/public_html/productpage.php on line 7
+[01-Nov-2014 16:01:59 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user 'toksquaye'@'localhost' (using password: YES)' in /home/akoto123/public_html/productpage.php:7
+Stack trace:
+#0 /home/akoto123/public_html/productpage.php(7): PDO->__construct('mysql:dbname=ak...', 'toksquaye', '1234')
+#1 {main}
+  thrown in /home/akoto123/public_html/productpage.php on line 7
+[08-Nov-2014 22:37:19 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/public_html/productpage.php on line 24
+[08-Nov-2014 22:37:19 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 12
+[08-Nov-2014 22:37:19 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 12
+[08-Nov-2014 22:37:19 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 15
+[08-Nov-2014 22:37:19 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 16
+[08-Nov-2014 22:37:19 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 17
+[08-Nov-2014 22:37:19 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 19
+[08-Nov-2014 22:37:19 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 21
+[08-Nov-2014 22:37:19 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 36
+[08-Nov-2014 22:46:24 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/public_html/productpage.php on line 24
+[08-Nov-2014 22:46:24 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 12
+[08-Nov-2014 22:46:24 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 12
+[08-Nov-2014 22:46:24 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 15
+[08-Nov-2014 22:46:24 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 16
+[08-Nov-2014 22:46:24 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 17
+[08-Nov-2014 22:46:24 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 19
+[08-Nov-2014 22:46:24 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 21
+[08-Nov-2014 22:46:24 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 36
+[09-Nov-2014 01:51:48 UTC] PHP Fatal error:  Invalid template: intro.php in /home/akoto123/includes/functions.php on line 30
+[09-Nov-2014 02:17:24 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/public_html/productpage.php on line 24
+[09-Nov-2014 02:17:24 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 12
+[09-Nov-2014 02:17:24 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 12
+[09-Nov-2014 02:17:24 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 15
+[09-Nov-2014 02:17:24 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 16
+[09-Nov-2014 02:17:24 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 17
+[09-Nov-2014 02:17:24 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 19
+[09-Nov-2014 02:17:24 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 20
+[09-Nov-2014 02:17:24 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 21
+[09-Nov-2014 02:17:24 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 36
+[09-Nov-2014 02:18:26 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/public_html/productpage.php on line 24
+[09-Nov-2014 02:18:26 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 12
+[09-Nov-2014 02:18:26 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 12
+[09-Nov-2014 02:18:26 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 15
+[09-Nov-2014 02:18:26 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 16
+[09-Nov-2014 02:18:26 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 17
+[09-Nov-2014 02:18:26 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 19
+[09-Nov-2014 02:18:26 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 20
+[09-Nov-2014 02:18:26 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 21
+[09-Nov-2014 02:18:26 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 36
+[09-Nov-2014 02:37:57 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/public_html/productpage.php on line 24
+[09-Nov-2014 02:37:57 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 12
+[09-Nov-2014 02:37:57 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 12
+[09-Nov-2014 02:37:57 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 15
+[09-Nov-2014 02:37:57 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 16
+[09-Nov-2014 02:37:57 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 17
+[09-Nov-2014 02:37:57 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 19
+[09-Nov-2014 02:37:57 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 20
+[09-Nov-2014 02:37:57 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 21
+[09-Nov-2014 02:37:57 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 36
+[09-Nov-2014 02:39:29 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/public_html/productpage.php on line 24
+[09-Nov-2014 02:39:29 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 12
+[09-Nov-2014 02:39:29 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 12
+[09-Nov-2014 02:39:29 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 15
+[09-Nov-2014 02:39:29 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 16
+[09-Nov-2014 02:39:29 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 17
+[09-Nov-2014 02:39:29 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 19
+[09-Nov-2014 02:39:29 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 20
+[09-Nov-2014 02:39:29 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 21
+[09-Nov-2014 02:39:29 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 36
+[09-Nov-2014 18:26:33 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/public_html/productpage.php on line 24
+[09-Nov-2014 18:26:33 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 12
+[09-Nov-2014 18:26:33 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 12
+[09-Nov-2014 18:26:33 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 15
+[09-Nov-2014 18:26:33 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 16
+[09-Nov-2014 18:26:33 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 17
+[09-Nov-2014 18:26:33 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 19
+[09-Nov-2014 18:26:33 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 20
+[09-Nov-2014 18:26:33 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 21
+[09-Nov-2014 18:26:33 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 36
+[09-Nov-2014 20:41:11 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/public_html/productpage.php on line 24
+[09-Nov-2014 20:41:11 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 12
+[09-Nov-2014 20:41:11 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 12
+[09-Nov-2014 20:41:11 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 15
+[09-Nov-2014 20:41:11 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 16
+[09-Nov-2014 20:41:11 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 17
+[09-Nov-2014 20:41:11 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 19
+[09-Nov-2014 20:41:11 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 20
+[09-Nov-2014 20:41:11 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 21
+[09-Nov-2014 20:41:11 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 36
+[10-Nov-2014 13:42:30 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/public_html/productpage.php on line 24
+[10-Nov-2014 13:42:30 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 12
+[10-Nov-2014 13:42:30 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 12
+[10-Nov-2014 13:42:30 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 15
+[10-Nov-2014 13:42:30 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 16
+[10-Nov-2014 13:42:30 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 17
+[10-Nov-2014 13:42:30 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 19
+[10-Nov-2014 13:42:30 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 20
+[10-Nov-2014 13:42:30 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 21
+[10-Nov-2014 13:42:30 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 36
+[10-Nov-2014 18:03:09 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/public_html/productpage.php on line 24
+[10-Nov-2014 18:03:09 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 12
+[10-Nov-2014 18:03:09 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 12
+[10-Nov-2014 18:03:09 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 15
+[10-Nov-2014 18:03:09 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 16
+[10-Nov-2014 18:03:09 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 17
+[10-Nov-2014 18:03:09 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 19
+[10-Nov-2014 18:03:09 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 20
+[10-Nov-2014 18:03:09 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 21
+[10-Nov-2014 18:03:09 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 36
+[11-Nov-2014 01:37:32 UTC] PHP Notice:  Undefined index: name in /home/akoto123/public_html/contactus.php on line 7
+[11-Nov-2014 01:37:32 UTC] PHP Notice:  Undefined index: email in /home/akoto123/public_html/contactus.php on line 8
+[11-Nov-2014 01:37:32 UTC] PHP Notice:  Undefined index: message in /home/akoto123/public_html/contactus.php on line 9
+[11-Nov-2014 01:37:32 UTC] PHP Notice:  Undefined index: submit in /home/akoto123/public_html/contactus.php on line 16
+[11-Nov-2014 01:37:32 UTC] PHP Notice:  Undefined index: submit in /home/akoto123/public_html/contactus.php on line 22
+[11-Nov-2014 02:49:44 UTC] PHP Fatal error:  Call to undefined function apologize() in /home/akoto123/public_html/contactus.php on line 21
+[11-Nov-2014 21:20:11 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/public_html/productpage.php on line 24
+[11-Nov-2014 21:20:11 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 12
+[11-Nov-2014 21:20:11 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 12
+[11-Nov-2014 21:20:11 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 15
+[11-Nov-2014 21:20:11 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 16
+[11-Nov-2014 21:20:11 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 17
+[11-Nov-2014 21:20:11 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 19
+[11-Nov-2014 21:20:11 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 20
+[11-Nov-2014 21:20:11 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 21
+[11-Nov-2014 21:20:11 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 36
+[12-Nov-2014 02:42:32 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/akoto123/includes/analyticstracking.php:11) in /home/akoto123/includes/config.php on line 14
+[12-Nov-2014 02:42:58 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/akoto123/includes/analyticstracking.php:11) in /home/akoto123/includes/config.php on line 14
+[12-Nov-2014 02:55:12 UTC] PHP Warning:  include_once(analyticstracking.php): failed to open stream: No such file or directory in /home/akoto123/templates/header.php on line 40
+[12-Nov-2014 02:55:12 UTC] PHP Warning:  include_once(): Failed opening 'analyticstracking.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/akoto123/templates/header.php on line 40
+[13-Nov-2014 03:34:33 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/public_html/productpage.php on line 24
+[13-Nov-2014 03:34:33 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 12
+[13-Nov-2014 03:34:33 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 12
+[13-Nov-2014 03:34:33 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 12
+[13-Nov-2014 03:34:33 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 13
+[13-Nov-2014 03:34:33 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 19
+[13-Nov-2014 03:34:33 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 20
+[13-Nov-2014 03:34:33 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 21
+[13-Nov-2014 03:34:33 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 23
+[13-Nov-2014 03:34:33 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 24
+[13-Nov-2014 03:34:33 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 25
+[13-Nov-2014 03:34:33 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 40
+[13-Nov-2014 03:34:59 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/public_html/productpage.php on line 24
+[13-Nov-2014 03:34:59 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 12
+[13-Nov-2014 03:34:59 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 12
+[13-Nov-2014 03:34:59 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 12
+[13-Nov-2014 03:34:59 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 13
+[13-Nov-2014 03:34:59 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 19
+[13-Nov-2014 03:34:59 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 20
+[13-Nov-2014 03:34:59 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 21
+[13-Nov-2014 03:34:59 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 23
+[13-Nov-2014 03:34:59 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 24
+[13-Nov-2014 03:34:59 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 25
+[13-Nov-2014 03:34:59 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 40
+[13-Nov-2014 12:47:08 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/public_html/productpage.php on line 24
+[13-Nov-2014 12:47:08 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 12
+[13-Nov-2014 12:47:08 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 12
+[13-Nov-2014 12:47:08 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 12
+[13-Nov-2014 12:47:08 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 13
+[13-Nov-2014 12:47:08 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 19
+[13-Nov-2014 12:47:08 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 20
+[13-Nov-2014 12:47:08 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 21
+[13-Nov-2014 12:47:08 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 23
+[13-Nov-2014 12:47:08 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 24
+[13-Nov-2014 12:47:08 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 25
+[13-Nov-2014 12:47:08 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 40
+[13-Nov-2014 12:58:27 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/public_html/productpage.php on line 24
+[13-Nov-2014 12:58:27 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 12
+[13-Nov-2014 12:58:27 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 12
+[13-Nov-2014 12:58:27 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 12
+[13-Nov-2014 12:58:27 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 13
+[13-Nov-2014 12:58:27 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 19
+[13-Nov-2014 12:58:27 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 20
+[13-Nov-2014 12:58:27 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 21
+[13-Nov-2014 12:58:27 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 23
+[13-Nov-2014 12:58:27 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 24
+[13-Nov-2014 12:58:27 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 25
+[13-Nov-2014 12:58:27 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 40
+[13-Nov-2014 18:06:06 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/public_html/productpage.php on line 24
+[13-Nov-2014 18:06:06 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 12
+[13-Nov-2014 18:06:06 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 12
+[13-Nov-2014 18:06:06 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 12
+[13-Nov-2014 18:06:06 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 13
+[13-Nov-2014 18:06:06 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 19
+[13-Nov-2014 18:06:06 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 20
+[13-Nov-2014 18:06:06 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 21
+[13-Nov-2014 18:06:06 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 23
+[13-Nov-2014 18:06:06 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 24
+[13-Nov-2014 18:06:06 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 25
+[13-Nov-2014 18:06:06 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 40
+[13-Nov-2014 18:06:25 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/public_html/productpage.php on line 24
+[13-Nov-2014 18:06:25 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 12
+[13-Nov-2014 18:06:25 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 12
+[13-Nov-2014 18:06:25 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 12
+[13-Nov-2014 18:06:25 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 13
+[13-Nov-2014 18:06:25 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 19
+[13-Nov-2014 18:06:25 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 20
+[13-Nov-2014 18:06:25 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 21
+[13-Nov-2014 18:06:25 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 23
+[13-Nov-2014 18:06:25 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 24
+[13-Nov-2014 18:06:25 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 25
+[13-Nov-2014 18:06:25 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 40
+[13-Nov-2014 18:08:07 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/public_html/productpage.php on line 24
+[13-Nov-2014 18:08:07 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 12
+[13-Nov-2014 18:08:07 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 12
+[13-Nov-2014 18:08:07 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 12
+[13-Nov-2014 18:08:07 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 13
+[13-Nov-2014 18:08:07 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 19
+[13-Nov-2014 18:08:07 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 20
+[13-Nov-2014 18:08:07 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 21
+[13-Nov-2014 18:08:07 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 23
+[13-Nov-2014 18:08:07 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 24
+[13-Nov-2014 18:08:07 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 25
+[13-Nov-2014 18:08:07 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 40
+[13-Nov-2014 18:48:04 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/public_html/productpage.php on line 24
+[13-Nov-2014 18:48:04 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 12
+[13-Nov-2014 18:48:04 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 12
+[13-Nov-2014 18:48:04 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 12
+[13-Nov-2014 18:48:04 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 13
+[13-Nov-2014 18:48:04 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 19
+[13-Nov-2014 18:48:04 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 20
+[13-Nov-2014 18:48:04 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 21
+[13-Nov-2014 18:48:04 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 23
+[13-Nov-2014 18:48:04 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 24
+[13-Nov-2014 18:48:04 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 25
+[13-Nov-2014 18:48:04 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 40
+[13-Nov-2014 20:53:57 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/akoto123/public_html/process_paypal.php:28) in /home/akoto123/public_html/process_paypal.php on line 162
+[13-Nov-2014 21:20:13 UTC] PHP Notice:  Undefined index: tax in /home/akoto123/public_html/process_paypal.php on line 12
+[13-Nov-2014 21:20:13 UTC] PHP Notice:  Undefined index: shipping_cost in /home/akoto123/public_html/process_paypal.php on line 16
+[13-Nov-2014 21:20:13 UTC] PHP Notice:  Undefined index: item_name in /home/akoto123/public_html/process_paypal.php on line 26
+[13-Nov-2014 21:20:13 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/akoto123/public_html/process_paypal.php on line 26
+[13-Nov-2014 21:20:13 UTC] PHP Notice:  Undefined index: your_form in /home/akoto123/public_html/process_paypal.php on line 121
+[13-Nov-2014 21:35:50 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/public_html/productpage.php on line 24
+[13-Nov-2014 21:35:50 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 12
+[13-Nov-2014 21:35:50 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 12
+[13-Nov-2014 21:35:50 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 12
+[13-Nov-2014 21:35:50 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 13
+[13-Nov-2014 21:35:50 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 19
+[13-Nov-2014 21:35:50 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 20
+[13-Nov-2014 21:35:50 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 21
+[13-Nov-2014 21:35:50 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 23
+[13-Nov-2014 21:35:50 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 24
+[13-Nov-2014 21:35:50 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 25
+[13-Nov-2014 21:35:50 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 40
+[13-Nov-2014 22:44:29 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/public_html/productpage.php on line 24
+[13-Nov-2014 22:44:29 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 12
+[13-Nov-2014 22:44:29 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 12
+[13-Nov-2014 22:44:29 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 12
+[13-Nov-2014 22:44:29 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 13
+[13-Nov-2014 22:44:29 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 19
+[13-Nov-2014 22:44:29 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 20
+[13-Nov-2014 22:44:29 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 21
+[13-Nov-2014 22:44:29 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 23
+[13-Nov-2014 22:44:29 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 24
+[13-Nov-2014 22:44:29 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 25
+[13-Nov-2014 22:44:29 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 40
+[13-Nov-2014 23:34:01 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/public_html/productpage.php on line 24
+[13-Nov-2014 23:34:01 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 12
+[13-Nov-2014 23:34:01 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 12
+[13-Nov-2014 23:34:01 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 12
+[13-Nov-2014 23:34:01 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 13
+[13-Nov-2014 23:34:01 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 19
+[13-Nov-2014 23:34:01 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 20
+[13-Nov-2014 23:34:01 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 21
+[13-Nov-2014 23:34:01 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 23
+[13-Nov-2014 23:34:01 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 24
+[13-Nov-2014 23:34:01 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 25
+[13-Nov-2014 23:34:01 UTC] PHP Notice:  Undefined offset: 0 in /home/akoto123/templates/productpage.php on line 40
+[14-Nov-2014 00:37:12 UTC] PHP Notice:  Undefined index: tax in /home/akoto123/public_html/process_paypal.php on line 12
+[14-Nov-2014 00:37:12 UTC] PHP Notice:  Undefined index: shipping_cost in /home/akoto123/public_html/process_paypal.php on line 16
+[14-Nov-2014 00:37:12 UTC] PHP Notice:  Undefined index: your_form in /home/akoto123/public_html/process_paypal.php on line 121
+[14-Nov-2014 13:45:21 UTC] PHP Notice:  Undefined index: tax in /home/akoto123/public_html/process_paypal.php on line 12
+[14-Nov-2014 13:45:21 UTC] PHP Notice:  Undefined index: shipping_cost in /home/akoto123/public_html/process_paypal.php on line 16
+[14-Nov-2014 13:45:21 UTC] PHP Notice:  Undefined index: item_name in /home/akoto123/public_html/process_paypal.php on line 26
+[14-Nov-2014 13:45:21 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/akoto123/public_html/process_paypal.php on line 26
+[14-Nov-2014 13:45:21 UTC] PHP Notice:  Undefined index: your_form in /home/akoto123/public_html/process_paypal.php on line 120
+[20-Nov-2014 00:17:19 UTC] PHP Notice:  Undefined index: paypal_products in /home/akoto123/public_html/process_paypal.php on line 185
+[20-Nov-2014 00:17:19 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/akoto123/public_html/process_paypal.php on line 189
+[20-Nov-2014 00:25:40 UTC] PHP Notice:  Undefined index: paypal_products in /home/akoto123/public_html/process_paypal.php on line 185
+[20-Nov-2014 00:25:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/akoto123/public_html/process_paypal.php on line 189
+[20-Nov-2014 02:15:05 UTC] PHP Notice:  Undefined index: paypal_products in /home/akoto123/public_html/process_paypal.php on line 185
+[20-Nov-2014 02:15:05 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/akoto123/public_html/process_paypal.php on line 189
+[20-Nov-2014 02:34:38 UTC] PHP Notice:  Undefined index: paypal_products in /home/akoto123/public_html/process_paypal.php on line 185
+[20-Nov-2014 02:34:38 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/akoto123/public_html/process_paypal.php on line 189
+[20-Nov-2014 02:53:20 UTC] PHP Notice:  Undefined index: paypal_products in /home/akoto123/public_html/process_paypal.php on line 185
+[20-Nov-2014 02:53:20 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/akoto123/public_html/process_paypal.php on line 189
+[20-Nov-2014 03:16:27 UTC] PHP Notice:  Undefined index: paypal_products in /home/akoto123/public_html/process_paypal.php on line 185
+[20-Nov-2014 03:16:27 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/akoto123/public_html/process_paypal.php on line 189
+[20-Nov-2014 13:08:25 UTC] PHP Notice:  Undefined index: paypal_products in /home/akoto123/public_html/process_paypal.php on line 185
+[20-Nov-2014 13:08:25 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/akoto123/public_html/process_paypal.php on line 189
+[20-Nov-2014 18:16:21 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/akoto123/public_html/process_paypal.php:10) in /home/akoto123/public_html/process_paypal.php on line 162
+[20-Nov-2014 18:18:18 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/akoto123/public_html/process_paypal.php:10) in /home/akoto123/public_html/process_paypal.php on line 162
+[20-Nov-2014 18:27:00 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/akoto123/public_html/process_paypal.php:10) in /home/akoto123/public_html/process_paypal.php on line 162
+[20-Nov-2014 18:29:34 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/akoto123/public_html/process_paypal.php:10) in /home/akoto123/public_html/process_paypal.php on line 162
+[20-Nov-2014 18:45:13 UTC] PHP Notice:  Undefined index: paypal_products in /home/akoto123/public_html/process_paypal.php on line 185
+[20-Nov-2014 18:45:13 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/akoto123/public_html/process_paypal.php on line 189
+[20-Nov-2014 18:45:17 UTC] PHP Notice:  Undefined index: paypal_products in /home/akoto123/public_html/process_paypal.php on line 185
+[20-Nov-2014 18:45:17 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/akoto123/public_html/process_paypal.php on line 189
+[20-Nov-2014 18:45:26 UTC] PHP Notice:  Undefined index: paypal_products in /home/akoto123/public_html/process_paypal.php on line 185
+[20-Nov-2014 18:45:26 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/akoto123/public_html/process_paypal.php on line 189
+[20-Nov-2014 19:01:23 UTC] PHP Notice:  Undefined index: paypal_products in /home/akoto123/public_html/process_paypal.php on line 185
+[20-Nov-2014 19:01:23 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/akoto123/public_html/process_paypal.php on line 189
+[20-Nov-2014 19:08:56 UTC] PHP Notice:  Undefined index: paypal_products in /home/akoto123/public_html/process_paypal.php on line 185
+[20-Nov-2014 19:08:56 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/akoto123/public_html/process_paypal.php on line 189
+[20-Nov-2014 21:56:46 UTC] PHP Notice:  Undefined index: paypal_products in /home/akoto123/public_html/process_paypal.php on line 185
+[20-Nov-2014 21:56:46 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/akoto123/public_html/process_paypal.php on line 189
+[23-Nov-2014 08:19:05 UTC] PHP Notice:  Undefined index: your_form in /home/akoto123/public_html/process_paypal.php on line 10
+[23-Nov-2014 08:19:05 UTC] PHP Notice:  Undefined index: tax in /home/akoto123/public_html/process_paypal.php on line 13
+[23-Nov-2014 08:19:05 UTC] PHP Notice:  Undefined index: shipping_cost in /home/akoto123/public_html/process_paypal.php on line 17
+[23-Nov-2014 08:19:05 UTC] PHP Notice:  Undefined index: item_name in /home/akoto123/public_html/process_paypal.php on line 27
+[23-Nov-2014 08:19:05 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/akoto123/public_html/process_paypal.php on line 27
+[23-Nov-2014 08:19:05 UTC] unable to insert into pendingtransactions db. process_paypal 154
+[23-Nov-2014 08:19:05 UTC] 1
+[23-Nov-2014 08:19:05 UTC] Paypal connection error
+This transaction cannot be processed. The amount to be charged is zero.
+[23-Nov-2014 23:18:36 UTC] this is a test
+[24-Nov-2014 02:56:26 UTC] this is a test
+[24-Nov-2014 04:04:33 UTC] error getting data from products db in mainmenu.php
+[24-Nov-2014 06:20:13 UTC] error getting data from products db in mainmenu.php
+[24-Nov-2014 07:31:54 UTC] session expired. unable to retrieve session-your_form
+[24-Nov-2014 13:32:04 UTC] error getting data from products db in mainmenu.php
+[24-Nov-2014 13:32:10 UTC] error getting data from products db in mainmenu.php
+[24-Nov-2014 13:33:29 UTC] error getting data from products db in mainmenu.php
+[24-Nov-2014 15:15:42 UTC] error getting data from products db in mainmenu.php
+[24-Nov-2014 15:15:47 UTC] error getting data from products db in mainmenu.php
+[24-Nov-2014 15:15:52 UTC] error getting data from products db in mainmenu.php
+[24-Nov-2014 18:35:38 UTC] error getting data from products db in mainmenu.php
+[24-Nov-2014 21:55:12 UTC] error getting product from products db in mainmenu.php:newarr
+[24-Nov-2014 22:19:25 UTC] error getting product from products db in mainmenu.php:sale
+[24-Nov-2014 23:14:41 UTC] error getting product from products db in mainmenu.php:specoff
+[24-Nov-2014 23:14:46 UTC] error getting product from products db in mainmenu.php:sale
+[24-Nov-2014 23:14:50 UTC] error getting product from products db in mainmenu.php:sale
+[24-Nov-2014 23:15:53 UTC] error getting product from products db in mainmenu.php:specoff
+[24-Nov-2014 23:15:56 UTC] error getting product from products db in mainmenu.php:sale
+[24-Nov-2014 23:16:00 UTC] error getting product from products db in mainmenu.php:newarr
+[24-Nov-2014 23:16:07 UTC] error getting product from products db in mainmenu.php:specoff
+[24-Nov-2014 23:16:09 UTC] error getting product from products db in mainmenu.php:sale
+[24-Nov-2014 23:16:12 UTC] error getting product from products db in mainmenu.php:newarr
+[24-Nov-2014 23:16:38 UTC] error getting product from products db in mainmenu.php:newarr
+[24-Nov-2014 23:18:17 UTC] error getting product from products db in mainmenu.php:specoff
+[24-Nov-2014 23:18:19 UTC] error getting product from products db in mainmenu.php:sale
+[24-Nov-2014 23:18:20 UTC] error getting product from products db in mainmenu.php:specoff
+[24-Nov-2014 23:18:22 UTC] error getting product from products db in mainmenu.php:newarr
+[24-Nov-2014 23:19:31 UTC] error getting product from products db in mainmenu.php:newarr
+[24-Nov-2014 23:21:03 UTC] error getting product from products db in mainmenu.php:specoff
+[24-Nov-2014 23:21:06 UTC] error getting product from products db in mainmenu.php:sale
+[24-Nov-2014 23:23:20 UTC] error getting product from products db in mainmenu.php:specoff
+[24-Nov-2014 23:23:21 UTC] error getting product from products db in mainmenu.php:specoff
+[24-Nov-2014 23:23:28 UTC] error getting product from products db in mainmenu.php:sale
+[24-Nov-2014 23:23:29 UTC] error getting product from products db in mainmenu.php:sale
+[24-Nov-2014 23:23:32 UTC] error getting product from products db in mainmenu.php:sale
+[24-Nov-2014 23:23:34 UTC] error getting product from products db in mainmenu.php:newarr
+[24-Nov-2014 23:23:37 UTC] error getting product from products db in mainmenu.php:sale
+[24-Nov-2014 23:23:39 UTC] error getting product from products db in mainmenu.php:sale
+[24-Nov-2014 23:23:45 UTC] error getting product from products db in mainmenu.php:sale
+[24-Nov-2014 23:25:18 UTC] error getting product from products db in mainmenu.php:newarr
+[24-Nov-2014 23:25:23 UTC] error getting product from products db in mainmenu.php:specoff
+[24-Nov-2014 23:26:01 UTC] error getting product from products db in mainmenu.php:sale
+[24-Nov-2014 23:26:04 UTC] error getting product from products db in mainmenu.php:newarr
+[24-Nov-2014 23:26:11 UTC] error getting product from products db in mainmenu.php:specoff
+[24-Nov-2014 23:26:22 UTC] error getting product from products db in mainmenu.php:sale
+[24-Nov-2014 23:26:32 UTC] error getting product from products db in mainmenu.php:sale
+[24-Nov-2014 23:26:34 UTC] error getting product from products db in mainmenu.php:specoff
+[24-Nov-2014 23:26:57 UTC] error getting product from products db in mainmenu.php:newarr
+[24-Nov-2014 23:27:50 UTC] error getting product from products db in mainmenu.php:specoff
+[24-Nov-2014 23:27:57 UTC] error getting product from products db in mainmenu.php:sale
+[24-Nov-2014 23:40:43 UTC] error getting product from products db in mainmenu.php:specoff
+[24-Nov-2014 23:40:47 UTC] error getting product from products db in mainmenu.php:newarr
+[25-Nov-2014 00:25:41 UTC] error getting product from products db in mainmenu.php:specoff
+[25-Nov-2014 00:25:44 UTC] error getting product from products db in mainmenu.php:sale
+[25-Nov-2014 01:38:01 UTC] error getting product from products db in mainmenu.php:newarr
+[25-Nov-2014 02:42:54 UTC] warning: empty product from products db in mainmenu.php:newarr
+[25-Nov-2014 02:43:15 UTC] warning: empty product from products db in mainmenu.php:specoff
+[25-Nov-2014 02:43:17 UTC] warning: empty product from products db in mainmenu.php:sale
+[25-Nov-2014 02:43:23 UTC] warning: empty product from products db in mainmenu.php:newarr
+[25-Nov-2014 02:43:32 UTC] warning: product type is not set in mainmenu.php - default to handbags
+[25-Nov-2014 02:44:02 UTC] warning: product type is not set in mainmenu.php - default to handbags
+[25-Nov-2014 02:46:43 UTC] warning: product type is not set in mainmenu.php - default to handbags
+[25-Nov-2014 02:51:33 UTC] warning: empty product from products db in mainmenu.php:specoff
+[25-Nov-2014 02:54:06 UTC] warning: empty product from products db in mainmenu.php:sale
+[25-Nov-2014 02:54:12 UTC] warning: empty product from products db in mainmenu.php:newarr
+[25-Nov-2014 02:54:39 UTC] warning: empty product from products db in mainmenu.php:newarr
+[25-Nov-2014 02:54:41 UTC] warning: empty product from products db in mainmenu.php:specoff
+[25-Nov-2014 02:54:43 UTC] warning: empty product from products db in mainmenu.php:sale
+[25-Nov-2014 02:54:48 UTC] warning: empty product from products db in mainmenu.php:newarr
+[25-Nov-2014 03:31:36 UTC] warning: product type is not set in mainmenu.php - default to handbags
+[25-Nov-2014 03:31:43 UTC] warning: empty product from products db in mainmenu.php:specoff
+[25-Nov-2014 04:02:09 UTC] warning: empty product from products db in mainmenu.php:newarr
+[25-Nov-2014 11:11:53 UTC] warning: empty product from products db in mainmenu.php:newarr
+[25-Nov-2014 11:24:42 UTC] warning: empty product from products db in mainmenu.php:specoff
+[25-Nov-2014 11:51:39 UTC] warning: empty product from products db in mainmenu.php:specoff
+[25-Nov-2014 11:53:51 UTC] warning: empty product from products db in mainmenu.php:specoff
+[25-Nov-2014 15:24:31 UTC] warning: empty product from products db in mainmenu.php:newarr
+[25-Nov-2014 15:24:36 UTC] warning: empty product from products db in mainmenu.php:specoff
+[25-Nov-2014 15:24:41 UTC] warning: empty product from products db in mainmenu.php:sale
+[25-Nov-2014 15:24:52 UTC] warning: empty product from products db in mainmenu.php:newarr
+[25-Nov-2014 15:24:57 UTC] warning: empty product from products db in mainmenu.php:specoff
+[25-Nov-2014 15:25:02 UTC] warning: empty product from products db in mainmenu.php:sale
+[25-Nov-2014 15:25:13 UTC] warning: empty product from products db in mainmenu.php:sale
+[25-Nov-2014 15:25:23 UTC] warning: empty product from products db in mainmenu.php:specoff
+[25-Nov-2014 15:25:33 UTC] warning: empty product from products db in mainmenu.php:newarr
+[25-Nov-2014 15:25:39 UTC] warning: empty product from products db in mainmenu.php:sale
+[25-Nov-2014 17:34:09 UTC] warning: empty product from products db in mainmenu.php:newarr
+[25-Nov-2014 20:09:56 UTC] warning: empty product from products db in mainmenu.php:sale
+[25-Nov-2014 21:28:40 UTC] warning: empty product from products db in mainmenu.php:specoff
+[25-Nov-2014 21:28:50 UTC] warning: empty product from products db in mainmenu.php:specoff
+[25-Nov-2014 21:28:53 UTC] warning: empty product from products db in mainmenu.php:newarr
+[25-Nov-2014 22:19:48 UTC] warning: empty product from products db in mainmenu.php:sale
+[25-Nov-2014 22:42:07 UTC] warning: empty product from products db in mainmenu.php:newarr
+[25-Nov-2014 22:42:18 UTC] warning: empty product from products db in mainmenu.php:specoff
+[25-Nov-2014 22:42:35 UTC] warning: empty product from products db in mainmenu.php:newarr
+[26-Nov-2014 00:54:50 UTC] warning: empty product from products db in mainmenu.php:sale
+[26-Nov-2014 01:54:46 UTC] warning: empty product from products db in mainmenu.php:newarr
+[26-Nov-2014 02:10:40 UTC] warning: empty product from products db in mainmenu.php:sale
+[26-Nov-2014 02:10:42 UTC] warning: empty product from products db in mainmenu.php:newarr
+[26-Nov-2014 05:05:56 UTC] warning: empty product from products db in mainmenu.php:newarr
+[26-Nov-2014 06:59:07 UTC] warning: empty product from products db in mainmenu.php:sale
+[26-Nov-2014 07:25:47 UTC] warning: empty product from products db in mainmenu.php:newarr
+[26-Nov-2014 09:26:08 UTC] warning: empty product from products db in mainmenu.php:sale
+[26-Nov-2014 11:54:59 UTC] PHP Notice:  Undefined index: product_qty in /home/akoto123/public_html/cart_update.php on line 15
+[26-Nov-2014 22:49:49 UTC] warning: empty product from products db in mainmenu.php:sale
+[05-Dec-2014 17:05:43 UTC] unable to retrieve session-your_form,tax,shippingcost. user redirected to checkout.php
+[08-Dec-2014 02:03:32 UTC] post items is not set in process_paypal.php.
+[08-Dec-2014 02:13:45 UTC] unable to retrieve session-your_form,tax,shippingcost. user redirected to checkout.php
+[13-Dec-2014 15:00:14 UTC] warning: product type is not set in mainmenu.php - default to handbags

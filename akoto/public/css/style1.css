@@ -1,0 +1,124 @@
+@charset "UTF-8";
+
+body{
+    font-family: Georgia, serif;
+    background: #e1dcc6 url(img/bg.jpg) repeat 0 0;
+}
+
+#header {
+    padding: 22px 0 17px 0;
+    }
+    
+#logo {
+    width: 298px;
+    float: left;
+    display: inline; }
+
+#logo a {
+    display: block;
+    background: url(img/akotologo1.png) no-repeat 0 0;
+    height: 63px; }
+
+#mainmenu
+{
+        width: 950px ;
+        height:80px;
+        margin-left: auto ;
+        margin-right: auto ;
+    	border-style : solid;
+        border-top-width:2px;
+        border-bottom-width:2px;
+        border-right: hidden;
+        border-left: hidden;
+        /*position: relative;*/
+        /*float:left;*/
+        font-weight: bold;
+        border-bottom-color:black;
+        border-top-color : black;
+}
+
+#mainmenu li
+{	margin: 0;
+	padding: 20px;
+	list-style: none;
+	float: left;
+        font-size: 1.3em;
+	/*font-family: Georgia serif;*/
+        color:rgb(6,115,14);}
+
+#mainmenu li a
+{	display: block;
+	width: 140px;
+	color: rgb(6,115,14);
+	text-align: center;
+	text-decoration: none}
+        
+#mainmenu li a:hover{
+    color:red;
+}
+
+#borderRight  {
+         content:"";
+         background:#ccc;
+         position: absolute;
+         bottom: 25%;
+         left: 0;
+         height: 50%;
+         width: 0px;
+         float: right;
+
+         }
+#logo {
+    height:100px;
+    width:550px;;
+    overflow: visible;
+    margin-left:auto;
+    margin-right: auto;
+    margin-bottom:40px;
+    margin-top:50px;
+}
+
+/*div.container4 {
+
+    position: relative }
+*/
+#cart{
+    
+}
+#action-links{
+    border-style:solid;
+    border-width: 2px;
+}
+#homeimg {
+    height: 500px;
+    width : 500px;
+    margin-left:5%;
+    margin-right: 0;
+    margin-top: 10px;
+    padding-left:  0;
+}
+     
+#bagstitle{
+    margin-top:140px;
+    font-family: Georgia serif;
+    margin-left: 210px;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+#prevarrow{
+    float:left;
+    height: 40px;
+    width: 40px;
+    display: block;
+    margin-top:240px;
+    margin-left:25%;
+}
+
+#nextarrow{
+    float:left;
+    height: 40px;
+    width: 40px;
+    margin-top:-17%;
+    margin-left:68%;
+}
